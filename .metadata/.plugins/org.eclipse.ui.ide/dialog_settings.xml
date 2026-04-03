@@ -3,4 +3,26 @@
 	<section name="ExternalProjectImportWizard">
 		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
 	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/8I2C_LCD_UART"/>
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/ADR_LDR_I2C_LCD"/>
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/ADC_LCD"/>
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/RTC_LCD"/>
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/TIM7 Interrupt"/>
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/TIM7"/>
+			<item value="/home/sunbeam/Desktop/DESD_Assignments/MCPI_Assignment/LCD Line 2"/>
+		</list>
+		<section name="STSmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="621"/>
+			<item key="DIALOG_Y_ORIGIN" value="294"/>
+			<item key="DIALOG_WIDTH" value="905"/>
+			<item key="DIALOG_HEIGHT" value="615"/>
+			<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		</section>
+	</section>
 </section>
