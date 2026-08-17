@@ -1,162 +1,343 @@
-<div align="center">
+# 👋 Hi, I'm Prapti Dhote
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prapti%20Dhote&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Embedded%20Systems%20%26%20Software%20Developer%20%7C%20PG-DESD%20Graduate&descAlignY=55&descSize=18" width="100%" />
+### 🚀 Embedded Systems & Software Developer | PG-DESD Graduate
 
-<a href="https://github.com/praptidhote">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=650&lines=Embedded+Systems+%26+Software+Developer;PG-DESD+Graduate;Building+with+STM32+%2B+FreeRTOS+%2B+ESP32;IoT+%2B+RTOS+%2B+Full+Stack+Development;Open+to+Work+Opportunities" alt="Typing SVG" />
-</a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to Work"/>
+  <img src="https://img.shields.io/badge/Pune-Maharashtra-7DD3FC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Pune"/>
+</p>
 
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=praptidhote&color=7DD3FC&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/praptidhote?label=Followers&style=flat-square&color=7DD3FC)
-
-</div>
-
-<br/>
-
-## 🧠 Who I Am
-
-```typescript
-const praptiDhote = {
-  title: "Embedded Systems & Software Developer | PG-DESD Graduate",
-  stack: {
-    languages: ["C", "C++", "Python", "Java", "JavaScript", "SQL"],
-    embedded: ["Embedded C", "STM32", "FreeRTOS", "UART", "SPI", "I2C", "ESP32", "IoT"],
-    frontend: ["React.js"],
-    backend: ["Node.js", "Express", "Flask"],
-    database: ["MySQL", "MongoDB", "PostgreSQL"],
-    dataAndAI: ["Machine Learning", "Data Analysis"]
-  },
-  launchedProjects: [
-    "IoT and RTOS-Based Greenhouse Monitoring System",
-    "SplitIt — Group & Personal Finance Tracker"
-  ],
-  certifications: ["PG-DESD (Post Graduate Diploma in Embedded Systems Design)"],
-  status: "Actively building embedded + full stack systems",
-  openTo: ["Full-time Roles", "Embedded Systems Projects", "IoT Collaborations"]
-};
-```
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 🌱 IoT and RTOS-Based Greenhouse Monitoring System
-
-> Real-time greenhouse monitoring and automation system built on STM32 and ESP32, using FreeRTOS for task scheduling and MQTT/ThingSpeak for live sensor data streaming.
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Green-House-Monitoring-System&repo=iot-greenhouse-monitor&theme=nord&border_color=7DD3FC&hide_border=false" />
-
-| Layer | Technology |
-|---|---|
-| Microcontroller | STM32, ESP32 |
-| RTOS | FreeRTOS |
-| Communication | UART, SPI, I2C, MQTT |
-| Cloud/Data | ThingSpeak |
-| Language | Embedded C |
-
-**🔗 Code:** [github.com/Green-House-Monitoring-System/iot-greenhouse-monitor](https://github.com/Green-House-Monitoring-System/iot-greenhouse-monitor)
-
-<br clear="right"/>
+🎓 **BE in Information Technology** | Sant Gadge Baba Amravati University  
+🎓 **PG-DESD (Embedded Systems Design)** | Sunbeam Institute of Information Technology, Pune  
+💼 **Fresher actively seeking opportunities in Embedded Systems, Firmware, IoT & Software Development**  
+📍 **Pune, Maharashtra, India**
 
 ---
 
-### 💰 SplitIt — Group & Personal Finance Tracker
+## 🧠 About Me
 
-> A web-based finance tracker for managing both group expenses and personal budgets, built with PHP and MySQL.
+I am a passionate **Embedded Systems & Software Developer** with a background in Information Technology and specialized training in **Embedded Systems Design**.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=praptidhote&repo=Splitit-Group-And-Personal-Finance_Tracker&theme=nord&border_color=7DD3FC&hide_border=false" />
+I have hands-on experience with **C/C++, Embedded C, STM32, FreeRTOS, UART, SPI, I2C, ADC, PWM, ESP32 and IoT systems**.
 
-| Layer | Technology |
-|---|---|
-| Backend | PHP |
-| Database | MySQL |
+I enjoy working close to hardware, debugging embedded applications, understanding communication protocols, and building real-time systems.
 
-**🔗 Code:** [github.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker](https://github.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker)
+Along with embedded development, I have experience in **Python, Java, JavaScript, SQL, web development, Machine Learning and data analysis**.
 
-<br clear="right"/>
+Currently, I am looking for an entry-level opportunity where I can contribute, learn from experienced engineers, and grow as an **Embedded/Firmware/IoT/Software Engineer**.
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+### 💻 Programming Languages
 
-![Skills](https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-**Frontend**
+### 🔧 Embedded Systems
 
-![Skills](https://skillicons.dev/icons?i=react&theme=dark)
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-00A4EF?style=for-the-badge&logo=freertos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+</p>
 
-**Backend & Dev Tools**
+**Concepts & Interfaces:**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark)
+- Embedded C programming
+- Microcontroller fundamentals
+- STM32 HAL
+- FreeRTOS task scheduling
+- Interrupts and ISR
+- GPIO
+- Timers
+- ADC
+- PWM
+- UART
+- SPI
+- I2C
+- Sensor interfacing
+- Debugging and troubleshooting
+- Memory and pointer concepts
+- Bitwise operations
 
-**Databases**
+### 🌐 IoT
 
-![Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgresql&theme=dark)
+- ESP32 / ESP8266
+- MQTT
+- ThingSpeak
+- Sensor data acquisition
+- UART communication
+- Wi-Fi connectivity
+- Real-time monitoring
+- IoT data visualization
 
-**Embedded & IoT**
+### 🌐 Software & Web Development
 
-![STM32](https://img.shields.io/badge/STM32-7DD3FC?style=for-the-badge&logo=stmicroelectronics&logoColor=black)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-7DD3FC?style=for-the-badge&logo=freertos&logoColor=black)
-![ESP32](https://img.shields.io/badge/ESP32-7DD3FC?style=for-the-badge&logo=espressif&logoColor=black)
-![Embedded C](https://img.shields.io/badge/Embedded%20C-7DD3FC?style=for-the-badge&logo=c&logoColor=black)
-![UART](https://img.shields.io/badge/UART-7DD3FC?style=for-the-badge)
-![SPI](https://img.shields.io/badge/SPI-7DD3FC?style=for-the-badge)
-![I2C](https://img.shields.io/badge/I2C-7DD3FC?style=for-the-badge)
-![MQTT](https://img.shields.io/badge/MQTT-7DD3FC?style=for-the-badge&logo=mqtt&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-**AI & Data**
+### 🗄️ Databases
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7DD3FC?style=for-the-badge&logo=scikitlearn&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-7DD3FC?style=for-the-badge&logo=pandas&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<br/>
+### 🤖 AI & Data
 
-## 📊 GitHub Stats
+- Python
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Jupyter Notebook
+- Streamlit
+- Generative AI
+- Excel
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=praptidhote&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&icon_color=7DD3FC&text_color=c9d1d9&hide_border=false" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praptidhote&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=c9d1d9&hide_border=false" width="49%" />
+# 🚀 Featured Projects
 
-<img src="https://streak-stats.demolab.com?user=praptidhote&theme=nord&border=7DD3FC&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC&hide_border=false" width="70%" />
+## 🌱 IoT & RTOS-Based Greenhouse Monitoring System
 
-</div>
+**Technologies:** STM32 | Embedded C | FreeRTOS | ESP32 | UART | DHT11 | Soil Moisture | LDR | MQTT | ThingSpeak
 
-## 🏆 Trophies
+A real-time greenhouse monitoring and automation system designed to monitor environmental parameters and support automated control.
 
-<div align="center">
+### 🔹 Key Features
 
-<img src="https://github-profile-trophy.vercel.app/?username=praptidhote&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+- Temperature and humidity monitoring using DHT11
+- Soil moisture monitoring
+- Light intensity monitoring using LDR
+- STM32 used as the main controller
+- ESP32 used for IoT connectivity
+- FreeRTOS used for task management and scheduling
+- UART communication between STM32 and ESP32
+- Sensor data uploaded to ThingSpeak
+- Real-time IoT monitoring
+- Automated control of greenhouse devices
 
-</div>
+### 👩‍💻 My Contribution
 
-## 📈 Contribution Activity
+- Worked on the **IoT connectivity and data transmission**
+- Interfaced sensors with the STM32
+- Implemented communication between STM32 and ESP32
+- Sent sensor data to ThingSpeak
+- Debugged Wi-Fi connectivity and API/channel issues
+- Tested and debugged sensor readings using serial output
 
-<div align="center">
+🔗 **[View Project Repository](https://github.com/Green-House-Monitoring-System/iot-greenhouse-monitor)**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praptidhote&theme=react-dark&color=7DD3FC&line=7DD3FC&point=ffffff&area=true&hide_border=true" width="100%" />
+---
 
-</div>
+## 💰 SplitIt — Group & Personal Finance Tracker
 
-<br/>
+**Technologies:** PHP | MySQL | HTML | CSS | JavaScript
 
-## 🤝 Connect With Me
+A web-based application designed to manage **group expenses and personal finances**.
 
-<div align="center">
+### 🔹 Key Features
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/prapti-dhote-b01378285/)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=gmail&logoColor=black)](mailto:praptidhote6509@gmail.com)
+- Group expense management
+- Personal expense tracking
+- Expense splitting
+- Database-driven application
+- User-friendly web interface
 
-</div>
+🔗 **[View Project Repository](https://github.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker)**
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" />
+# 🎓 Education
+
+### 🎓 PG Diploma in Embedded Systems Design (PG-DESD)
+
+**Sunbeam Institute of Information Technology, Pune — CDAC**
+
+Focused on:
+
+- Embedded C
+- C/C++
+- Linux
+- RTOS
+- STM32
+- Device Drivers
+- Microcontrollers
+- Communication Protocols
+- Embedded System Design
+
+### 🎓 Bachelor of Engineering — Information Technology
+
+**Sant Gadge Baba Amravati University**
+
+**2021 – 2025**
+
+---
+
+# 📜 Certifications
+
+- 🏆 Machine Learning Certification — IIT Madras
+- 🏆 Python Programming Certification
+- 🏆 Machine Learning — Skill India / NSDC
+- 🏆 AI for Beginners — HP LIFE
+- 🏆 Data Science & Analytics — HP LIFE
+- 🏆 PG-DESD — CDAC / Sunbeam Institute
+
+---
+
+# 💼 Experience
+
+### Java Full Stack Developer Intern
+**EduSkills Academy**  
+*October 2024 – December 2024*
+
+- Worked on Java Full Stack development concepts
+- Developed and worked with web application components
+- Strengthened Java, database and backend development skills
+
+### Full Stack Web Development Intern
+**Wayspire**  
+*June 2024 – August 2024*
+
+- Worked on web development technologies
+- Developed frontend and backend components
+- Worked with databases and application development
+
+---
+
+# 📊 Data & Machine Learning Projects
+
+### 📈 Swiggy Sales Forecasting
+
+A data science project focused on analyzing sales data, preprocessing datasets, feature engineering, and building predictive models.
+
+**Technologies:** Python | Pandas | NumPy | Machine Learning | Jupyter Notebook
+
+---
+
+# 🧩 Embedded Systems Knowledge
+
+I am particularly interested in:
+
+- 🔹 Embedded C / C++
+- 🔹 STM32 Microcontrollers
+- 🔹 ARM Cortex-M
+- 🔹 FreeRTOS
+- 🔹 Device Drivers
+- 🔹 Interrupts
+- 🔹 Memory Management
+- 🔹 Pointers
+- 🔹 Bit Manipulation
+- 🔹 UART / SPI / I2C
+- 🔹 ADC / PWM / Timers
+- 🔹 Sensor Interfacing
+- 🔹 IoT
+- 🔹 Firmware Development
+- 🔹 Debugging & Troubleshooting
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praptidhote&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praptidhote&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=praptidhote&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praptidhote&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Embedded C
+- C++ for Embedded Systems
+- RTOS concepts
+- STM32 Firmware Development
+- Linux & Device Drivers
+- Embedded Communication Protocols
+- IoT Systems
+- Data Structures & Algorithms
+- Python & Machine Learning
+
+---
+
+# 🎯 Career Objective
+
+I am looking for **entry-level opportunities in Pune or other locations in India** as:
+
+- Embedded Software Engineer
+- Embedded Engineer
+- Firmware Engineer
+- Junior Embedded Developer
+- IoT Engineer
+- Software Engineer
+- C/C++ Developer
+- Graduate Engineer Trainee
+- Associate Software Engineer
+
+I am open to **full-time opportunities, graduate trainee programs and entry-level engineering roles** where I can apply my technical skills and continue learning.
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/praptidhote">
+    <img src="https://img.shields.io/badge/GitHub-praptidhote-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/prapti-dhote-b01378285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prapti%20Dhote-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:praptidhote6509@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🟢 Open to Work
+
+**Currently looking for fresher opportunities in Embedded Systems, Firmware, IoT and Software Development.**
+
+If you are hiring for an entry-level engineering role, I'd be happy to connect!
+
+---
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
