@@ -43,47 +43,31 @@ Currently, I am looking for an entry-level opportunity where I can contribute to
 
 ### Embedded Systems
 
-- Embedded C
-- STM32
-- FreeRTOS
-- ESP32 / ESP8266
-- STM32 HAL
-- GPIO
-- Timers
-- ADC
-- PWM
-- Interrupts and ISR
-- Memory and pointer concepts
-- Bitwise operations
-- Sensor interfacing
-- Firmware debugging
+- Embedded C · STM32 · FreeRTOS · ESP32 / ESP8266 · STM32 HAL
+- GPIO · Timers · ADC · PWM · Interrupts and ISR
+- Memory and pointer concepts · Bitwise operations
+- Sensor interfacing · Firmware debugging
 
 ### Communication Protocols
 
-- UART
-- SPI
-- I2C
-- MQTT
+- UART · SPI · I2C · MQTT
 
 ### IoT
 
-- ESP32 / ESP8266
-- MQTT
-- ThingSpeak
-- Wi-Fi connectivity
-- Sensor data acquisition
-- Real-time monitoring
-- IoT data visualization
+- ESP32 / ESP8266 · MQTT · ThingSpeak
+- Wi-Fi connectivity · Sensor data acquisition
+- Real-time monitoring · IoT data visualization
 
 ### Software and Web Development
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
@@ -97,156 +81,124 @@ Currently, I am looking for an entry-level opportunity where I can contribute to
 
 ### AI and Data
 
-- Python
-- Machine Learning
-- Data Analysis
-- Pandas
-- NumPy
-- Jupyter Notebook
-- Streamlit
-- Generative AI
-- Excel
+- Python · Machine Learning · Data Analysis
+- Pandas · NumPy · Jupyter Notebook
+- Streamlit · Generative AI · Excel
 
 ---
 
 ## Featured Projects
 
-### IoT and RTOS-Based Greenhouse Monitoring System
+---
 
-**Technologies:** STM32, Embedded C, FreeRTOS, ESP32, UART, DHT11, Soil Moisture Sensor, LDR, MQTT, ThingSpeak
+### 🤖 AI Resume Analyzer & ATS Scorer — *Live*
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-success?style=for-the-badge&logo=vercel)](https://ai-resume-analyzer-eosin-delta.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/praptidhote/Ai-Resume-Analyzer)
+
+**Technologies:** Next.js · Node.js · Express · MongoDB · Google Gemini AI · NLP (TF-IDF) · PDFKit · JWT · Vercel · Render
+
+A full-stack AI-powered resume analyzer that scores resumes against job descriptions using a **hybrid ATS scoring engine** combining deterministic NLP with Google Gemini LLM evaluation.
+
+**Key Features**
+- **Hybrid 4-Pillar Scoring**: Keyword match (40%) + Experience relevance (30%) + Formatting (15%) + Impact & quantification (15%)
+- **Resume Parsing**: Extracts text from PDF and Word documents
+- **Keyword & Skill Gap Detection**: Cross-references 300+ tech skills with synonym resolution
+- **AI Bullet Rewriter**: Transforms weak statements into high-impact, quantified achievement bullets using Google XYZ format
+- **PDF Report Export**: Generates downloadable ATS analysis reports
+- **Score Progression Dashboard**: Visualizes ATS improvement over time
+- **Secure Auth**: HTTP-only JWT cookies, bcrypt, rate limiting
+
+| Landing Page | ATS Score Results |
+|---|---|
+| ![Landing](https://raw.githubusercontent.com/praptidhote/Ai-Resume-Analyzer/main/assets/screenshots/01-landing-page.png) | ![Results](https://raw.githubusercontent.com/praptidhote/Ai-Resume-Analyzer/main/assets/screenshots/05-analysis-results.png) |
+
+| Analyze Page | Dashboard |
+|---|---|
+| ![Analyze](https://raw.githubusercontent.com/praptidhote/Ai-Resume-Analyzer/main/assets/screenshots/04-analyze-authenticated.png) | ![Dashboard](https://raw.githubusercontent.com/praptidhote/Ai-Resume-Analyzer/main/assets/screenshots/06-dashboard-populated.png) |
+
+---
+
+### 🌱 IoT and RTOS-Based Greenhouse Monitoring System
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/Green-House-Monitoring-System/iot-greenhouse-monitor)
+
+**Technologies:** STM32 · Embedded C · FreeRTOS · ESP32 · UART · DHT11 · Soil Moisture Sensor · LDR · MQTT · ThingSpeak
 
 A real-time greenhouse monitoring and automation system designed to monitor environmental parameters and support automated control.
 
 **Key Features**
-
 - Temperature and humidity monitoring using DHT11
-- Soil moisture monitoring
-- Light intensity monitoring using LDR
-- STM32 used as the main controller
-- ESP32 used for IoT connectivity
-- FreeRTOS used for task scheduling
-- UART communication between STM32 and ESP32
-- Sensor data uploaded to ThingSpeak
-- Real-time IoT monitoring
-- Automated greenhouse control
+- Soil moisture and light intensity (LDR) monitoring
+- STM32 as main controller with FreeRTOS task scheduling
+- ESP32 for IoT connectivity via UART bridge
+- Sensor data uploaded to ThingSpeak for real-time visualization
+- Automated greenhouse control logic
 
 **My Contribution**
-
-- Worked on IoT connectivity and data transmission
-- Interfaced sensors with STM32
-- Implemented communication between STM32 and ESP32
-- Sent sensor data to ThingSpeak
-- Debugged Wi-Fi connectivity and API/channel issues
-- Tested and debugged sensor readings using serial output
-
-[View Project Repository](https://github.com/Green-House-Monitoring-System/iot-greenhouse-monitor)
+- Interfaced sensors with STM32 and implemented UART communication to ESP32
+- Implemented MQTT data transmission to ThingSpeak cloud
+- Debugged Wi-Fi connectivity, API channel issues and sensor readings
 
 ---
 
-### SplitIt — Group and Personal Finance Tracker
+### 💸 SplitIt — Group and Personal Finance Tracker
 
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker)
 
-A web-based application designed to manage group expenses and personal finances.
+**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
+
+A web-based application to manage group expenses and personal finances with expense splitting and database-driven tracking.
 
 **Key Features**
-
-- Group expense management
+- Group expense management and expense splitting
 - Personal expense tracking
-- Expense splitting
-- Database-driven application
-- User-friendly web interface
+- User-friendly web interface with database backend
 
-[View Project Repository](https://github.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker)
+---
+
+### 📊 Swiggy Sales Forecasting
+
+**Technologies:** Python · Pandas · NumPy · Machine Learning · Jupyter Notebook
+
+A data science project focused on sales data analysis, preprocessing, feature engineering and predictive modeling using real Swiggy sales data.
 
 ---
 
 ## Education
 
 ### PG Diploma in Embedded Systems Design (PG-DESD)
-
 **Sunbeam Institute of Information Technology, Pune — CDAC**
 
-Key areas:
-
-- Embedded C
-- C/C++
-- Linux
-- RTOS
-- STM32
-- Device Drivers
-- Microcontrollers
-- Communication Protocols
-- Embedded System Design
+Embedded C · C/C++ · Linux · RTOS · STM32 · Device Drivers · Microcontrollers · Communication Protocols · Embedded System Design
 
 ### Bachelor of Engineering — Information Technology
-
-**Sant Gadge Baba Amravati University**
-
-2021 – 2025
+**Sant Gadge Baba Amravati University** | 2021 – 2025
 
 ---
 
 ## Certifications
 
-- Machine Learning Certification — IIT Madras
-- Python Programming Certification
-- Machine Learning — Skill India / NSDC
-- AI for Beginners — HP LIFE
-- Data Science & Analytics — HP LIFE
-- PG-DESD — CDAC / Sunbeam Institute
+- 🎓 Machine Learning Certification — IIT Madras
+- 🐍 Python Programming Certification
+- 🤖 Machine Learning — Skill India / NSDC
+- 💡 AI for Beginners — HP LIFE
+- 📊 Data Science & Analytics — HP LIFE
+- 🔧 PG-DESD — CDAC / Sunbeam Institute
 
 ---
 
 ## Internship Experience
 
 ### Java Full Stack Developer Intern
-
 **EduSkills Academy | October 2024 – December 2024**
 
-- Worked with Java Full Stack development concepts
-- Developed and worked with web application components
-- Strengthened Java, database and backend development skills
+Worked with Java Full Stack development — built web application components, strengthened Java, database and backend development skills.
 
 ### Full Stack Web Development Intern
-
 **Wayspire | June 2024 – August 2024**
 
-- Worked with web development technologies
-- Developed frontend and backend components
-- Worked with databases and application development
-
----
-
-## Data and Machine Learning Project
-
-### Swiggy Sales Forecasting
-
-A data science project focused on sales data analysis, preprocessing, feature engineering and predictive modeling.
-
-**Technologies:** Python, Pandas, NumPy, Machine Learning, Jupyter Notebook
-
----
-
-## Embedded Systems Interests
-
-I am particularly interested in:
-
-- Embedded C / C++
-- STM32 Microcontrollers
-- ARM Cortex-M
-- FreeRTOS
-- Firmware Development
-- Device Drivers
-- Interrupts and ISR
-- Memory Management
-- Pointers
-- Bit Manipulation
-- UART / SPI / I2C
-- ADC / PWM / Timers
-- Sensor Interfacing
-- IoT Systems
-- Debugging and Troubleshooting
+Developed frontend and backend components with databases and full-stack application development using modern web technologies.
 
 ---
 
@@ -273,13 +225,10 @@ I am particularly interested in:
 
 ## Currently Learning
 
-- Advanced Embedded C
-- C++ for Embedded Systems
-- RTOS concepts
-- STM32 Firmware Development
+- Advanced Embedded C · C++ for Embedded Systems
+- RTOS concepts · STM32 Firmware Development
 - Linux and Device Drivers
-- Embedded Communication Protocols
-- IoT Systems
+- Embedded Communication Protocols · IoT Systems
 - Data Structures and Algorithms
 - Python and Machine Learning
 
@@ -287,19 +236,11 @@ I am particularly interested in:
 
 ## Career Objective
 
-I am looking for entry-level opportunities in Pune or other locations in India as:
+Looking for entry-level opportunities in Pune or other locations in India as:
 
-- Embedded Software Engineer
-- Embedded Engineer
-- Firmware Engineer
-- Junior Embedded Developer
-- IoT Engineer
-- Software Engineer
-- C/C++ Developer
-- Graduate Engineer Trainee
-- Associate Software Engineer
+**Embedded Software Engineer · Firmware Engineer · IoT Engineer · C/C++ Developer · Software Engineer · Graduate Engineer Trainee · Associate Software Engineer**
 
-I am open to full-time opportunities, graduate trainee programs and entry-level engineering roles where I can apply my technical skills and continue learning.
+Open to full-time opportunities, graduate trainee programs and entry-level engineering roles.
 
 ---
 
@@ -309,11 +250,9 @@ I am open to full-time opportunities, graduate trainee programs and entry-level 
   <a href="https://github.com/praptidhote">
     <img src="https://img.shields.io/badge/GitHub-praptidhote-181717?style=for-the-badge&logo=github"/>
   </a>
-
   <a href="https://www.linkedin.com/in/prapti-dhote-b01378285/">
     <img src="https://img.shields.io/badge/LinkedIn-Prapti%20Dhote-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="mailto:praptidhote6509@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -323,12 +262,10 @@ I am open to full-time opportunities, graduate trainee programs and entry-level 
 
 ## Open to Work
 
-Currently looking for fresher opportunities in Embedded Systems, Firmware, IoT and Software Development.
+Currently looking for fresher opportunities in **Embedded Systems, Firmware, IoT and Software Development**.
 
 If you are hiring for an entry-level engineering role, I would be happy to connect.
 
 ---
 
-<p align="center">
-  Thanks for visiting my profile.
-</p>
+<p align="center">Thanks for visiting my profile.</p>
