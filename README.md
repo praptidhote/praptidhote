@@ -12,6 +12,12 @@ PG-DESD (Embedded Systems Design) | Sunbeam Institute of Information Technology,
 
 Fresher actively seeking opportunities in Embedded Systems, Firmware, IoT and Software Development.
 
+### 🚀 Latest Project — Live Now
+
+> **AI Resume Analyzer & ATS Scorer** — A full-stack AI-powered app that scores resumes against job descriptions  
+> 🔗 **Live:** [ai-resume-analyzer-eosin-delta.vercel.app](https://ai-resume-analyzer-eosin-delta.vercel.app) &nbsp;|&nbsp; 📂 **Repo:** [Ai-Resume-Analyzer](https://github.com/praptidhote/Ai-Resume-Analyzer)  
+> Built with Next.js · Node.js · MongoDB · Google Gemini AI · NLP
+
 ---
 
 ## About Me
