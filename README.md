@@ -28,7 +28,10 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://ai-resume-analyzer-eosin-delta.vercel.app">
-    <img src="https://img.shields.io/badge/My%20Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AI%20Resume%20Live-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://clique-evaluator-ramble.ngrok-free.dev/project/">
+    <img src="https://img.shields.io/badge/SplitIt%20Live-4361EE?style=for-the-badge&logo=cashapp&logoColor=white"/>
   </a>
 
 </div>
@@ -47,8 +50,11 @@ const prapti = {
         PG: "PG-DESD — Sunbeam Institute, Pune (CDAC)"
     },
     currentFocus: "Building production-ready full stack applications",
-    funFact: "I bridge the gap between hardware (STM32, ESP32) and software (React, Node.js)",
-    liveProject: "https://ai-resume-analyzer-eosin-delta.vercel.app"
+    funFact: "I bridge the gap between hardware (STM32, ESP32) and software (React, Node.js, PHP)",
+    liveProjects: {
+        aiResumeAnalyzer: "https://ai-resume-analyzer-eosin-delta.vercel.app",
+        splitItFinanceTracker: "https://clique-evaluator-ramble.ngrok-free.dev/project/"
+    }
 };
 ```
 
@@ -60,7 +66,7 @@ const prapti = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🚀 Latest Project — Live Now
+## 🚀 Featured Projects — Live & Interactive
 
 <table>
 <tr>
@@ -106,6 +112,52 @@ A **production-deployed** full-stack AI application that analyzes resumes agains
 | Resume Upload | Dashboard |
 |:---:|:---:|
 | ![Analyze](https://raw.githubusercontent.com/praptidhote/Ai-Resume-Analyzer/main/assets/screenshots/04-analyze-authenticated.png) | ![Dashboard](https://raw.githubusercontent.com/praptidhote/Ai-Resume-Analyzer/main/assets/screenshots/06-dashboard-populated.png) |
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### <img src="https://media.giphy.com/media/LdOyjZ7io5M88/giphy.gif" width="30"> SplitIt — Group & Personal Finance Tracker
+
+[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-Click_Here-00C853?style=for-the-badge&logoColor=white)](https://clique-evaluator-ramble.ngrok-free.dev/project/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker)
+
+A **full-featured** financial management web application for seamless group bill splitting, dues settlements, and personal budgeting.
+
+**Tech Stack:**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E33?style=flat-square&logo=ngrok&logoColor=white)
+
+</td>
+<td width="50%">
+
+**✨ Key Features:**
+- ⚡ Interactive live split simulator with dynamic sliders
+- 👥 Custom group circles (roommates, trips, dining)
+- 💳 UPI / Payment QR code settlement integration
+- 📊 Real-time dues ledger & debt reconciliation
+- 📈 Personal visual dashboard & periodic statements
+- 🎨 Modern glassmorphism UI with AOS animations
+- 📱 Fully responsive for mobile and desktop
+
+</td>
+</tr>
+</table>
+
+| Interactive Home & Split Simulator | Modern Glassmorphic Login |
+|:---:|:---:|
+| ![Home & Calculator](https://raw.githubusercontent.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker/main/images/preview.png) | ![Login Screen](https://raw.githubusercontent.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker/main/images/preview_login.png) |
+
+| User Registration & QR Upload | Real-Time Expense Splitting |
+|:---:|:---:|
+| ![Registration](https://raw.githubusercontent.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker/main/images/preview_register.png) | ![Friends Sharing](https://raw.githubusercontent.com/praptidhote/Splitit-Group-And-Personal-Finance_Tracker/main/images/11.png) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
